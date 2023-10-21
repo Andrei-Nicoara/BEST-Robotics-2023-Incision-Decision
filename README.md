@@ -6,7 +6,7 @@ The Final Code For 2023, And Some Final Notes From Tech Team 2023:
  
 WARNING
 only use with:
-~~Cortex~ HS BEST Extra 2
-~~Controller~ HS BEST Extra 1
-~~Battery~ duck tape
-~~Keys~ HS BEST
+ - Cortex: HS BEST Extra 2
+ - Controller: HS BEST Extra 1
+ - Battery: duck tape
+ - Keys: HS BEST
